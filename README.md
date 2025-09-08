@@ -26,13 +26,21 @@ I am now seeking new opportunities as a Java or Full Stack Developer, where I ca
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
 # 🛠️ Projects
-| Project | Description | Tech Stack | Live / Repo |
-|---------|-------------|------------|-------------|
-| **Cafe Management System** | Manage cafe operations: orders, inventory, billing, PDF generation | Java, Spring Boot, MySQL, React.js | [Repo](https://github.com/kunall002/cafe-management) |
-| **Food Delivery System** | E-commerce platform for ordering food from multiple vendors, with cart, payment, and delivery management | Java, Spring Boot, MySQL, React.js | [Live](https://foodclient-netlify.netlify.app/) / [Repo](https://github.com/kunall002/food-delivery-system) |
-| **Billing Software** | Generate invoices, manage payments, and produce PDF reports for businesses | Java, Spring Boot, MySQL, React.js | [Repo](https://github.com/kunall002/billing-software) |
+
+### 1. [Cafe Management System](https://github.com/kunall002/cafe-management)
+- **Description:** Manage cafe operations including orders, inventory, billing, and PDF generation.
+- **Tech Stack:** Java, Spring Boot, MySQL, React.js
+
+### 2. [Food Delivery System](https://foodclient-netlify.netlify.app/)
+- **Description:** E-commerce platform for ordering food from multiple vendors, with cart, payment, and delivery management.
+- **Tech Stack:** Java, Spring Boot, MySQL, React.js
+- **Repo:** [GitHub](https://github.com/kunall002/food-delivery-system)
+
+### 3. [Billing Software](https://github.com/kunall002/billing-software)
+- **Description:** Generate invoices, manage payments, and produce PDF reports for businesses.
+- **Tech Stack:** Java, Spring Boot, MySQL, React.js
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kunall002&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
