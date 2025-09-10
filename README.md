@@ -1,9 +1,26 @@
 # 💫 About Me:
 🔭 I’m currently working on :<br>Billing Software Application | Farm-to-Table Delivery System | Civic Problem Reporter <br><br>👯 I’m looking to collaborate on :<br>Java, Spring Boot, React, and Full Stack Development Projects<br><br>🤝 I’m looking for help with :<br>Improving my skills in microservices, cloud deployment, and scalable application design<br><br>🌱 I’m currently learning :<br>Spring Security with JWT, RESTful APIs, and Advanced React concepts<br><br>💬 Ask me about :<br>Java, Spring Boot, MySQL, REST APIs, and Full-Stack Development basics<br><br>⚡ Fun fact :<br>I enjoy solving debugging issues like puzzles 🧩 and love coding 💻<br><br>     
-As a passionate Full Stack Developer with an MCA from SSBT’s College of Engineering & Technology, I specialize in building robust, scalable, and secure web applications using Java, Spring Boot, React.js, and MySQL.<br><br>
-During my internship at Signimus Technologies, I developed and delivered core modules for three major systems—including a Cafe Management System, and Billing System Solution. My role spanned designing RESTful APIs, implementing JWT-based authentication, optimizing application performance, and integrating business-critical features like email, Payment integration and PDF generation.<br><br>
-I thrive in collaborative, Agile teams and am known for my problem-solving skills, adaptability, and commitment to code quality and modern development practices. My mentors have recognized my initiative and ability to deliver solutions that make a real impact.<br><br>
-I am now seeking new opportunities as a Java or Full Stack Developer, where I can contribute my technical expertise, learn from industry leaders, and help build the future of technology. If you’re looking for a motivated developer ready to add value from day one, let’s connect.
+I am an MCA graduate from SSBT’s College of Engineering & Technology with a strong focus on building robust, scalable, and secure web applications. My expertise lies in Java, Spring Boot, React.js, MySQL, RESTful APIs, and JWT-based authentication.
+
+💡 Internship Experience:
+At Signimus Technologies, I contributed to the development of core modules for major systems, including:
+
+Cafe Management System | Billing System Solution | Food Delivery System
+
+My responsibilities included:
+✔ Designing & implementing REST APIs
+✔ Securing applications with JWT authentication
+✔ Optimizing performance for scalability & efficiency
+✔ Integrating payment gateways, email services, and PDF generation
+
+🌱 I thrive in Agile, collaborative teams and bring strong problem-solving, adaptability, and clean coding practices. Recognized for my initiative and impact-driven solutions, I am always eager to learn and grow in fast-paced environments.
+
+🔍 Currently seeking opportunities as a Java Developer / Full Stack Developer, where I can contribute immediately, expand my expertise, and build technology that matters.
+
+💼 Core Skills:
+Java | Spring Boot | Microservices| React.js | MySQL | REST APIs | JWT | Git | GitHub | SQL | Problem-Solving | Agile | Payment Integration | PDF Generation | Email Service Integration
+
+📩 Let’s connect if you’re looking for a motivated developer who can add value from day one.
 
 
 ## 🌐 Socials:
