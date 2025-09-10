@@ -54,7 +54,8 @@ Java | Spring Boot | Microservices| React.js | MySQL | REST APIs | JWT | Git | G
 - **Description:** E-commerce platform for ordering food from multiple vendors, with cart, payment, and delivery management.
 - **Tech Stack:** Java, Spring Boot, MySQL, React.js
 - **Repo:** Backend [GitHub](https://github.com/kunall002/foodrestapi)
-- **Repo:** frontend [GitHub](https://github.com/kunall002/foodAdmin-netlify) <br>(https://github.com/kunall002/foodclient-netlify)
+- **Repo:** frontend [GitHub](https://github.com/kunall002/foodAdmin-netlify)
+- **Repo:** frontend [GitHub](https://github.com/kunall002/foodclient-netlify)
 
 
 ### 3. [Billing Software](https://github.com/kunall002/billing-software)
