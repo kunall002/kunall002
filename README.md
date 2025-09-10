@@ -27,14 +27,16 @@ I am now seeking new opportunities as a Java or Full Stack Developer, where I ca
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 # 🛠️ Projects
 
-### 1. [Cafe Management System](https://github.com/kunall002/cafe-management)
+### 1. [Cafe Management System]
 - **Description:** Manage cafe operations including orders, inventory, billing, and PDF generation.
 - **Tech Stack:** Java, Spring Boot, MySQL, React.js
+- - **Repo:** [GitHub](https://github.com/kunall002/CafeManagementSystem)
+
 
 ### 2. [Food Delivery System](https://foodclient-netlify.netlify.app/)
 - **Description:** E-commerce platform for ordering food from multiple vendors, with cart, payment, and delivery management.
 - **Tech Stack:** Java, Spring Boot, MySQL, React.js
-- **Repo:** [GitHub](https://github.com/kunall002/food-delivery-system)
+- **Repo:** [GitHub](https://github.com/kunall002/foodrestapi)
 
 ### 3. [Billing Software](https://github.com/kunall002/billing-software)
 - **Description:** Generate invoices, manage payments, and produce PDF reports for businesses.
