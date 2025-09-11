@@ -44,7 +44,7 @@ Java | Spring Boot | Microservices| React.js | MySQL | REST APIs | JWT | Git | G
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 # 🛠️ Projects
 
-### 1. [Cafe Management System]
+### 1. Cafe Management System
 - **Description:** Manage cafe operations including orders, inventory, billing, and PDF generation.
 - **Tech Stack:** Java, Spring Boot, MySQL, React.js
 - **Repo:** [GitHub](https://github.com/kunall002/CafeManagementSystem)
