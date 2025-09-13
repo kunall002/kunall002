@@ -21,6 +21,8 @@ My responsibilities included:<br>
 Java | Spring Boot | Microservices| React.js | MySQL | REST APIs | JWT | Git | GitHub | SQL | Problem-Solving | Agile | Payment Integration | PDF Generation | Email Service Integration
 
 📩 Let’s connect if you’re looking for a motivated developer who can add value from day one.
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kpardeshi433@gmail.com) 
+
 
 
 ## 🌐 Socials:
