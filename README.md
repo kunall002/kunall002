@@ -20,8 +20,7 @@ My responsibilities included:<br>
 💼 Core Skills:
 Java | Spring Boot | Microservices| React.js | MySQL | REST APIs | JWT | Git | GitHub | SQL | Problem-Solving | Agile | Payment Integration | PDF Generation | Email Service Integration
 
-📩 Let’s connect if you’re looking for a motivated developer who can add value from day one.<br>
-[![email](mailto:kpardeshi433@gmail.com) 
+📩 Let’s connect if you’re looking for a motivated developer who can add value from day one.
 
 
 
