@@ -7,7 +7,7 @@ At Signimus Technologies, I contributed to the development of core modules for m
 
 Cafe Management System | Billing System Solution | Food Delivery System
 
-My responsibilities included:
+My responsibilities included:<br>
 ✔ Designing & implementing REST APIs <br>
 ✔ Securing applications with JWT authentication <br>
 ✔ Optimizing performance for scalability & efficiency <br>
